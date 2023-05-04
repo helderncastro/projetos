@@ -1,0 +1,25 @@
+# arquivos gerados automaticamente
+target/
+bin/
+build/
+out/
+*.class
+
+# arquivos de configuração
+*.iml
+.idea/
+.gradle/
+.vscode/
+.settings/
+*.classpath
+*.project
+*.properties
+
+# arquivos de log e backup
+*.log
+*.bak
+*.swp
+
+# arquivos de cache
+.caches/
+.cache/
